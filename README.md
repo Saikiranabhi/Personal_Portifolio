@@ -6,14 +6,14 @@ Welcome to my comprehensive portfolio website — a responsive, animated, and fu
 
 ## 🚀 About Me
 
-I'm a 3rd-year B.Tech student in Artificial Intelligence and Machine Learning at Vishnu Institute of Technology. I enjoy blending logic and creativity to build ML models and develop innovative software solutions.
+I'm a B.Tech student in Artificial Intelligence and Machine learning at Vishnu Institute of Technology. I enjoy blending logic and creativity to build ML Models.
 
 ### 🎯 Skills & Expertise
 
-- **Frontend Development**: HTML5, CSS3, JavaScript, React, Tailwind CSS
-- **Machine Learning**: ML algorithms, NLP, Deep Learning, Generative AI (learning phase)
-- **ML Frameworks**: LangChain, Hugging Face, scikit-learn, TensorFlow
-- **Backend Development**: Node.js, Express, MongoDB, SQL
+- **Programming languages**: Python, C++, Java (learning phase)
+- **Machine learning frameworks**: LangChain, Hugging face, sklearn, tensorflow
+- **Machine learning technologies**: Machine learning, Deep learning, Natural Language Processing, Generative AI & MLOps (learning phase)
+- **Databases**: MySQL, MongoDB, Pinecone, VectorDB
 
 ---
 
@@ -22,39 +22,29 @@ I'm a 3rd-year B.Tech student in Artificial Intelligence and Machine Learning at
 ### 🎨 Personal Portfolio Section
 A clean, modern introduction with animated text, gradient backgrounds, and a comprehensive showcase of my journey as a developer and ML enthusiast.
 
-### ✅ Task Management App
-- Add/delete tasks with local storage persistence
-- Task prioritization and intuitive user interface
-- Fully responsive design with smooth animations
-- Modal-based project demonstration
+### ✅ Resume Analyser
+- Resume Analyzer is an AI-powered web application that helps users analyze their resumes, identify skill gaps, and receive actionable suggestions to improve their chances in the job market.
+- Upload your PDF resume, select a target job role, and get instant feedback on your skills, missing competencies, and recommended learning resources.
 
-### 🛍️ E-commerce Product Catalog
-- Interactive product listing with advanced filtering
-- Live search functionality and sorting options
-- Stylish and user-friendly design
-- Perfect for e-commerce applications
+### 🛍️ Youtube Sentimental Analyser
+- Analyze the sentiment of YouTube video comments using state-of-the-art NLP models.
+- This interactive web app fetches comments from any public YouTube video and provides a detailed sentiment breakdown (positive, negative, neutral) using Hugging Face Transformers.
 
-### 🌿 Celebrating Telugu Culture
-- Bilingual cultural website showcasing Telugu traditions
-- Features festivals, cuisine, and historic pride
-- Cultural theme with modern web design
+### 🌿 RAG Chatbot using Ollama
+- A Retrieval-Augmented Generation (RAG) chatbot that allows users to upload PDF documents and interactively ask questions about their content.
+- The system leverages state-of-the-art language models, vector search, and modern web technologies to provide accurate, context-aware answers from your documents.
 
-### 🔬 Interactive Science Quiz
-- Clean and curious web-based science quiz app
-- Fetches live facts from API
-- Tracks score and offers sleek dark-mode experience
-- Built to make learning interactive and fun
+### 🔬 Text Summerizer
+- A simple Python application that summarizes text using natural language processing techniques.
+- This project provides a user-friendly interface to input text and receive concise summaries, making it easier to digest large amounts of information quickly.
 
-### 🌿 Nature Quiz
-- Beautifully designed nature-themed quiz
-- Blends calm visuals with interactive learning
-- Features animated transitions and question-based scoring
-- Friendly user interface
+### 🌿 Cartoon Caption Image
+- Generate fun cartoonized images and multilingual captions with this interactive app.
+- Upload an image, apply cartoon effects and beautification, generate an English caption, and translate it to Hindi or Telugu—all in one place.
 
-### 💼 Personal Portfolio Website
-- This very website! A responsive, modern portfolio
-- Smooth animations and professional design
-- Showcases work and skills effectively
+### 💼 Personal Expense Tracker
+- A simple Personal Expense Tracker built with Python, Streamlit, and SQLite. Easily add, view, edit, and delete your daily expenses.
+- Track spending with filters, KPIs, category charts, and monthly trends. Stores all data locally in a lightweight SQLite database.
 
 ---
 
@@ -63,8 +53,6 @@ A clean, modern introduction with animated text, gradient backgrounds, and a com
 - **HTML5** – Semantic structure and accessibility
 - **CSS3** – Responsive layout, animations, gradient effects, dark mode
 - **JavaScript** – Dynamic behavior, DOM manipulation, modal functionality, smooth scrolling
-- **Font Awesome** – Icon library for enhanced UI
-- **Google Fonts** – Typography optimization
 
 ---
 
@@ -95,7 +83,7 @@ A clean, modern introduction with animated text, gradient backgrounds, and a com
 ## 🚀 Live Demo
 
 **🔗 Website**: [Portfolio Demo](https://your-portfolio-url.com) *(Update with actual URL)*  
-**📂 GitHub Repo**: [View Source Code](https://github.com/Saikiranabhi/Portfolio1.git) *(Update with actual repo)*
+**📂 GitHub Repo**: [View Source Code](https://github.com/Saikiranabhi/Personal_Portifolio.git) *(Update with actual repo)*
 
 ---
 
@@ -112,15 +100,14 @@ A clean, modern introduction with animated text, gradient backgrounds, and a com
 ## 🎯 Experience
 
 ### Machine Learning Intern
-**EIsystems Solutions** | 2024
-- Worked on building ML model for laptop price prediction using Streamlit, Python, and Random Forest Regression
-- Implemented features and gained practical ML experience
+**EIsystems Solutions** | Mar - Apr 2024
+- Developed and optimized machine learning models for laptop price prediction, improving overall prediction accuracy.
+- Analyzed diverse datasets including laptop specs, market trends, and historical pricing to inform model training and evaluation.
 
-### System Engineer
-**Microlink Information Technologies** | Vijaywada | Nov 2023 - May 2024
-- Assisted in designing and maintaining system architectures
-- Gained practical knowledge in system configuration, network troubleshooting, and performance optimization
-- Collaborated with technical teams to support IT infrastructure and deployment tasks
+### Generative AI with IBM Cloud
+**IBM Cloud** | Remote | May - July 2025
+- Developed CitizenAI, an AI-driven web platform with a smart chat assistant powered by IBM Granite or Gemini for context-aware responses.
+- Implemented sentiment analysis and feedback storage using MongoDB, with a real-time animated dashboard for data visualization.
 
 ---
 
