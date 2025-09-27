@@ -8,6 +8,7 @@ Welcome to my comprehensive portfolio website — a responsive, animated, and fu
 
 I'm a B.Tech student in Artificial Intelligence and Machine learning at Vishnu Institute of Technology. I enjoy blending logic and creativity to build ML Models.
 
+---
 ### 🎯 Skills & Expertise
 
 - **Programming languages**: Python, C++, Java (learning phase)
