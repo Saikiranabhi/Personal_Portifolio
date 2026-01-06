@@ -177,9 +177,54 @@ function openPortfolioDemo() {
     });
 }
 
+
+// // window.onload = function () {
+// //     const aboutSection = document.getElementById("about");
+// //     if (aboutSection) {
+// //       aboutSection.scrollIntoView({ behavior: "auto" });
+// //     }
+// //   };
+
+// if ('scrollRestoration' in history) {
+//     history.scrollRestoration = 'manual';
+//   }
+
+//   window.onload = () => {
+//     document.getElementById("about")?.scrollIntoView();
+//   };
+
+
+// if ('scrollRestoration' in history) {
+//     history.scrollRestoration = 'manual';
+//   }
+
+//   const isReload =
+//     performance.getEntriesByType("navigation")[0]?.type === "reload";
+
+//   window.onload = () => {
+//     if (!isReload) {
+//       // First visit or direct navigation → scroll to About
+//       document.getElementById("about")?.scrollIntoView({ behavior: "manual" });
+//     }
+//     // Reload → browser keeps the scroll position
+//   };
+
+document.getElementById("about")?.scrollIntoView({
+  behavior: "smooth"
+});
+
+
+document.querySelectorAll("a").forEach(link => {
+  link.addEventListener("click", e => {
+    if (link.href.startsWith("mailto:")) return;
+  });
+});
+
+
 // Keyboard navigation
 document.addEventListener('keydown', function(e) {
     if (e.key === 'Escape' && projectModal.classList.contains('show')) {
         closeProject();
     }
 });
+
